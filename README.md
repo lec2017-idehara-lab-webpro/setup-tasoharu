@@ -74,3 +74,11 @@ git pull
 ```
 
 を使用する。
+
+# 表示確認
+
+xampp が正しくインストールされ、apache がサーバとして動作していれば
+
+http://localhost/github-tutorial/hello.html
+
+で、このリポジトリの hello.html ファイルが表示されるはずである。
