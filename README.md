@@ -81,4 +81,4 @@ xampp が正しくインストールされ、apache がサーバとして動作�
 
 http://localhost/github-tutorial/hello.html
 
-で、このリポジトリの hello.html ファイルが表示されるはずである。
+で、このリポジトリの hello.html ファイルが表示されるはずである。なお、この「localhost」は、「自分自身」を表すコンピュータ名である。
